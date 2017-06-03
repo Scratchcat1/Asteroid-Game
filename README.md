@@ -1,4 +1,5 @@
 # Asteroid-Game
+```
 A basic topdown game of a laser unicorn cat shooting asteroids
 This is a simple python game using pygame in which you play as a unicorn cat shooting lasers (purple squares) at asteroids (green and red squares).
 Green asteroids give you health when they are shot or collide into you.
@@ -8,3 +9,5 @@ WASD to accelerate in that direction
 Arrow keys to shoot lasers
 Space to slow down to a halt
 B to display FPS in the console
+```
+Some components eg media, images belong to the respective creators
